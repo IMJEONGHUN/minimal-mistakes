@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "TEAM: Crash-Landing"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/poker.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IMJEONGHUN"
   location         : "JBNU, IT INFORMATION"
   email            :
